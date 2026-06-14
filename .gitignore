@@ -1,0 +1,17 @@
+# Datasets
+train/
+test/
+*.csv
+!sample_submission.csv
+
+# Heavy presentation files
+*.pptx
+
+# Python Cache & IDE Settings
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.git/
+*.log
